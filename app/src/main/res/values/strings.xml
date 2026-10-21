@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Github Client</string>
+    <string name="hint_org_name">Organization name</string>
+    <string name="btn_search">Search</string>
+    <string name="no_repos_found_for_org">No repos found for organization %1$s</string>
+    <string name="no_description_message">No description message</string>
+    <string name="forks_format">Forks: %1$d</string>
+    <string name="watchers_format">Watchers: %1$d</string>
+    <string name="open_issues_format">Open issues: %1$d</string>
+    <string name="forked_from_format">Forked from: %1$s</string>
 </resources>
